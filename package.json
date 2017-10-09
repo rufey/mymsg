@@ -1,0 +1,22 @@
+{
+  "name": "mymsg",
+  "version": "1.0.0",
+  "description": "My decentralized signed messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rufey/mymsg.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Vyacheslav Shindin <vyacheslav.shindin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rufey/mymsg/issues"
+  },
+  "homepage": "https://github.com/rufey/mymsg#readme"
+}
